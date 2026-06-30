@@ -38,3 +38,13 @@ Construir un dashboard web que muestre la evolución de la contaminación lumín
 **3. Modelo predictivo (en desarrollo)**  
 Desarrollar un modelo de proyección que estime la evolución futura del brillo nocturno bajo distintos escenarios: crecimiento urbano tendencial, materialización de proyectos industriales como INNA, y escenarios de mitigación con regulación más estricta. La idea es responder: *¿qué le ocurre a los cielos de Paranal si no se detiene la tendencia actual?* y traducir esa respuesta en algo visual y cuantificable.
 
+### Estado actual
+ 
+- [x] Definición de observatorios y parámetros
+- [ ] Script de extracción VIIRS listo para correr en Google Colab
+- [ ] Extracción completa del dataset 2012–2026 *(en curso)*
+- [ ] Análisis exploratorio de tendencias
+- [ ] Dashboard interactivo (Streamlit)
+- [ ] Modelo predictivo de escenarios futuros
+- [ ] Manuscrito / informe final
+
